@@ -21,8 +21,8 @@ A stylish popup ad plugin for Typecho with transparent image
 
 ## 🖼 效果预览
 
-![大图弹窗效果](screenshot1.png)
-![小图常驻效果](screenshot2.png)
+![大图弹窗效果](https://tncache1-f1.v3mh.com/image/2025/05/30/d3d174749c162ca9318bc04c55fab398.jpg)
+![小图常驻效果](https://tncache1-f1.v3mh.com/image/2025/05/30/f4a55876a73f6b32c618881833ad7480.jpg)
 
 ## 🛠 安装方法
 
