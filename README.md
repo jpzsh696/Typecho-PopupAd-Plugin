@@ -40,6 +40,7 @@ A stylish popup ad plugin for Typecho with transparent image
 跳转链接: https://your-link.com
 有效期至: 2025-12-31 23:59:59
 大图弹窗间隔: 24
+```
 
 💡 使用技巧
 透明图片设计：
