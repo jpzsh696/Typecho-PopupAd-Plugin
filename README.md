@@ -66,7 +66,7 @@ A stylish popup ad plugin for Typecho with transparent image
 本项目采用 MIT License 开源，可自由使用于商业和个人项目。
 
 💬 反馈与支持
-发现问题或有建议？[创建 Issue](https://github.com/jpzsh696/Typecho-PopupAd-Plugin/issues)
+发现问题或有建议？[提交问题](https://github.com/jpzsh696/Typecho-PopupAd-Plugin/issues)
 
 ☕ 支持项目
 如果这个插件对您有帮助，请考虑：
@@ -75,6 +75,6 @@ A stylish popup ad plugin for Typecho with transparent image
 
 分享给其他Typecho用户
 
-[!捐赠支持开发](https://tncache1-f1.v3mh.com/image/2025/05/30/4b6abc9d810bd5af57a4464036edf331.jpg)
+[![捐赠支持开发](https://tncache1-f1.v3mh.com/image/2025/05/30/4b6abc9d810bd5af57a4464036edf331.jpg)
 
 
