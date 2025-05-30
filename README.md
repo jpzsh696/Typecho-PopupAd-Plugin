@@ -26,7 +26,7 @@ A stylish popup ad plugin for Typecho with transparent image
 
 ## 🛠 安装方法
 
-1. 下载 [最新版本](https://github.com/yourname/Typecho-PopupAd-Plugin/releases/latest)
+1. 下载 [最新版本](https://pan.quark.cn/s/0817447e6491)
 2. 解压后将 `PopupAd` 文件夹上传到 `/usr/plugins/`
 3. 在Typecho后台激活插件
 4. 前往插件设置配置参数
