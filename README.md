@@ -40,3 +40,41 @@ A stylish popup ad plugin for Typecho with transparent image
 跳转链接: https://your-link.com
 有效期至: 2025-12-31 23:59:59
 大图弹窗间隔: 24
+
+💡 使用技巧
+透明图片设计：
+
+使用PNG-24格式保留透明度
+
+添加1-2像素柔光边缘避免生硬
+
+在深/浅色背景测试效果
+
+最佳尺寸：
+
+大图：800×600px（居中展示）
+
+小图：200×150px（右下角展示）
+
+动画优化：
+
+大图延迟1秒显示避免打扰
+
+小图立即展示吸引注意力
+
+📄 开源协议
+本项目采用 MIT License 开源，可自由使用于商业和个人项目。
+
+💬 反馈与支持
+发现问题或有建议？[创建 Issue](https://github.com/jpzsh696/Typecho-PopupAd-Plugin/issues)
+
+☕ 支持项目
+如果这个插件对您有帮助，请考虑：
+
+在GitHub上⭐Star这个项目
+
+分享给其他Typecho用户
+
+[捐赠支持开发](https://tncache1-f1.v3mh.com/image/2025/05/30/4b6abc9d810bd5af57a4464036edf331.jpg)
+
+
