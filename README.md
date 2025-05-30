@@ -76,6 +76,6 @@ A stylish popup ad plugin for Typecho with transparent image
 
 分享给其他Typecho用户
 
-[![捐赠支持开发](https://tncache1-f1.v3mh.com/image/2025/05/30/4b6abc9d810bd5af57a4464036edf331.jpg)
+![捐赠支持开发](https://tncache1-f1.v3mh.com/image/2025/05/30/4b6abc9d810bd5af57a4464036edf331.jpg)
 
 
