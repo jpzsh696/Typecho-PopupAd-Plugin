@@ -7,6 +7,16 @@ A stylish popup ad plugin for Typecho with transparent image
 [![Typecho Version](https://img.shields.io/badge/Typecho-1.2.1+-blue.svg?style=flat-square)](https://typecho.org)
 
 > 专业级弹窗广告插件，支持透明PNG/GIF图片，完美融入网站设计，提升广告效果！
+## 使用场景：
+> 促销活动：展示限时优惠活动
+
+> 新品发布：推广新产品或服务
+
+> 重要通知：显示网站公告或更新
+
+> 会员推广：吸引用户注册会员
+
+> 内容推荐：引导用户访问重要内容
 
 ## ✨ 功能亮点
 
@@ -26,10 +36,11 @@ A stylish popup ad plugin for Typecho with transparent image
 
 ## 🛠 安装方法
 
-1. 下载 [最新版本](https://pan.quark.cn/s/0817447e6491)
-2. 解压后将 `PopupAd` 文件夹上传到 `/usr/plugins/`
-3. 在Typecho后台激活插件
-4. 前往插件设置配置参数
+1. 下载：[最新版本](https://github.com/jpzsh696/Typecho-PopupAd-Plugin/releases/)
+2. 网盘：[最新版本](https://pan.quark.cn/s/0817447e6491)
+3. 解压后将 `PopupAd` 文件夹上传到 `/usr/plugins/`
+4. 在Typecho后台激活插件
+5. 前往插件设置配置参数
 
 ## ⚙️ 配置选项
 
